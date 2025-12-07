@@ -4,6 +4,11 @@
 This project implements a **Convolutional Neural Network (CNN)** to classify handwritten digits (0–9) from the MNIST dataset using PyTorch.  
 The notebook is clean, beginner‑friendly, and designed for Google Colab.
 
+#  Run on Google Colab
+
+Click below to open the notebook directly in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naidi47/MNIST-Digit-Classification-DL/blob/main/mnist_cnn.ipynb)
 ---
 
 # 📁 Folder Structure
